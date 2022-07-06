@@ -2,4 +2,4 @@
 Frontend development course 
 
 Link to my website:
-https://thatguycalledcoder.github.io/HTML-assignment/main/
+https://thatguycalledcoder.github.io/HTML-assignment/
